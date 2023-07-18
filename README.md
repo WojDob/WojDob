@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hello, I'm Wojciech  👋
 
-<!--
-**WojDob/WojDob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Backend Developer based in Poznań, Poland.
 
-Here are some ideas to get you started:
+## Favourite tech
+* 🐍 Python, Django, Django REST Framework
+* 🐧 Linux
+* 💾 SQLite
+* 🧬 Bioinformatics, Data analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact Me
+You can reach me on [LinkedIn](https://linkedin.com/in/wojciech-dobrychlop/).
+
+
+<hr>
+
+![Codewars](https://github.r2v.ch/codewars?user=WojDob&hide_clan=true&theme=solarized_light&top_languages=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wojdob)
